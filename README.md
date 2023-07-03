@@ -1,4 +1,4 @@
-# DexVault - Binance Dex Signing Oracle
+# DexVault - BNB Chain Dex Signing Oracle
 
 ## Index
 
@@ -24,7 +24,7 @@ Main Features:
 - Secure TLS build-in
 - Full data-at-rest protection, incl. Swap prevention
 - IP whitelisting
-- API almost identical to Binance's Go-SDK, making migration trivial.
+- API almost identical to BNB Chain's Go-SDK, making migration trivial.
 - Based on official Go-SDK for guaranteed compatibility and future support.
 
 To be supported soon:
