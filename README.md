@@ -1,3 +1,4 @@
+**This repo is out of maintenance and decommissioned.**
 # DexVault - BNB Chain Dex Signing Oracle
 
 ## Index
